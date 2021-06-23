@@ -20,7 +20,7 @@
   }
 
   /**
-   * Easy event listener function
+   * Event listener function
    */
   const on = (type, el, listener, all = false) => {
     let selectEl = select(el, all)
