@@ -1,4 +1,4 @@
-[MIT MISTI Brazil Technology Course Site] (https://techcourse.vercel.app/)
+MISTI-Brazil Tech Course Website: https://techcourse.vercel.app/
 
 # MISTI-Brazil Experience 
 
